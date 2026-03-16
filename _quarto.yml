@@ -10,8 +10,8 @@ execute:
 
 website:
   favicon: content/images/logo_lwg-circle.png
-  title: "LegacyWorks Group: Series"
-  repo-url: https://github.com/LegacyWorksGroup/
+  title: "LegacyWorks Group: Storytelling for Impact Series"
+  repo-url: https://github.com/LegacyWorksGroup/storytelling
   repo-actions: [issue]
   navbar:
     background: primary
@@ -19,7 +19,7 @@ website:
       - text: "LegacyWorks Home"
         href: https://legacyworksgroup.com/
       - icon: github
-        href: https://github.com/LegacyWorksGroup/
+        href: https://github.com/LegacyWorksGroup/storytelling
   sidebar:
     collapse-level: 2
     style: docked

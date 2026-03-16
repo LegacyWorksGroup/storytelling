@@ -1,3 +1,44 @@
 ---
-title: "X"
+title: "Series Overview"
 ---
+
+<img src="content/images/logo_lwg-long.png" alt="Logo for LegacyWorks Group" width="30%" align="right"/>
+
+{{< fa person-digging >}} Under construction; check back later
+
+<br>
+
+
+:::{.callout-tip icon="false" collapse="false"}
+## {{< fa brain >}} Learning Objectives
+
+After completing this series, participants will be able to:
+:::
+
+### Citing These Materials
+
+{{< fa person-digging >}} Under construction; check back later
+
+## Course Structure
+
+:::{.panel-tabset}
+### 2026-27 Structure
+
+{{< fa person-digging >}} Under construction; check back later
+
+:::
+
+## Course Scheduling
+
+:::{.panel-tabset}
+### 2026-27 Schedule
+
+| **Date** | **Series** | **Primary Instructor** |
+|:-----:|:-----------------|:---------|
+| x | x | <span style="color:#4AB2CB">{{< fa people-group >}} TBA </span> |
+
+:::
+
+## Course Policies
+
+{{< fa person-digging >}} Under construction; check back later
