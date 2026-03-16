@@ -27,7 +27,12 @@ website:
       - href: index.qmd
       - section: "Series Contents"
         contents: 
-          - text: "TBD"
+          - text: "Communications Strategy"
+            href: content/strategy.qmd
+          - text: "Basics"
+            href: content/basics.qmd
+          - text: "Lever for Impact"
+            href: content/impact.qmd
   page-footer: 
     center: "&copy; 2026, LegacyWorks Group (Loop: [{{< fa arrows-spin >}}](https://sites.google.com/legacyworksgroup.com/legacy-loop/legacyloop))"
     background: secondary

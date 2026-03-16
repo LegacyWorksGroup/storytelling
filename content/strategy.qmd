@@ -1,0 +1,14 @@
+---
+title: "Communications Strategy & Best Practices, Tips and Tools"
+---
+
+{{< fa person-digging >}} Under construction; check back later.
+
+
+:::{.callout-tip icon="false" collapse="false"}
+## Core Competencies Strengthened
+
+_Icon legend: [Values = {{< fa heart >}}]{.cc-value} | [Skills = {{< fa wand-magic-sparkles >}}]{.cc-skill} | [Stewardship = {{< fa hand-holding-heart >}}]{.cc-steward} | [Results = {{< fa square-poll-vertical >}}]{.cc-result}_
+
+:::
+
