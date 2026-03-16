@@ -35,7 +35,9 @@ After completing this series, participants will be able to:
 
 | **Date** | **Series** | **Primary Instructor** |
 |:-----:|:-----------------|:---------|
-| x | x | <span style="color:#4AB2CB">{{< fa people-group >}} TBA </span> |
+| May 6, 2027 | 1. Communications Strategy and Best Practices, Tips, and Tools | <span style="color:#4AB2CB">{{< fa people-group >}} TBA </span> |
+| June 3, 2027 | 2. Storytelling Basics | <span style="color:#4AB2CB">{{< fa people-group >}} TBA </span> |
+| July 1, 2027 | 3.  Storytelling as a Lever for Change and Impact | <span style="color:#4AB2CB">{{< fa people-group >}} TBA </span> |
 
 :::
 
