@@ -33,6 +33,8 @@ website:
             href: content/basics.qmd
           - text: "Lever for Impact"
             href: content/impact.qmd
+      - text: "Series Recordings"
+        href: recordings.qmd
   page-footer: 
     center: "&copy; 2026, LegacyWorks Group (Loop: [{{< fa arrows-spin >}}](https://sites.google.com/legacyworksgroup.com/legacy-loop/legacyloop))"
     background: secondary
