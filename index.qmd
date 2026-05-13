@@ -19,7 +19,7 @@ After completing this series, participants will be able to:
 
 {{< fa person-digging >}} Under construction; check back later
 
-## Course Structure
+## Series Structure
 
 :::{.panel-tabset}
 ### 2026-27 Structure
@@ -28,7 +28,7 @@ After completing this series, participants will be able to:
 
 :::
 
-## Course Scheduling
+## Series Scheduling
 
 :::{.panel-tabset}
 ### 2026-27 Schedule
@@ -41,6 +41,6 @@ After completing this series, participants will be able to:
 
 :::
 
-## Course Policies
+## Series Policies
 
 {{< fa person-digging >}} Under construction; check back later
