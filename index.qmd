@@ -24,7 +24,7 @@ After completing this series, participants will be able to:
 :::{.panel-tabset}
 ### 2026-27 Structure
 
-{{< fa person-digging >}} Under construction; check back later
+This series is made up of three 2.5 hour live sessions, offered monthly, May-July 2027, and three web-based modules, available on this website during and after the series.
 
 :::
 
@@ -43,4 +43,12 @@ After completing this series, participants will be able to:
 
 ## Series Policies
 
-{{< fa person-digging >}} Under construction; check back later
+### Attendance
+
+We hope you will prioritize attendance of all classes in this series, but if you need to miss, please email the series instructor as early as possible. This will help us to share resources and plan for a smaller in-class community while you are out. Our hope is that you want to be present,  but we totally understand that you have many demands on your time and sometimes life happens!
+
+Please keep in mind that your presence in and contributions to class are important both to your understanding of the material and the creation and maintenance of our community of practice.
+
+### Usability, Accessibility, and Design
+
+We are committed to creating a community of practice that is inclusive in its design. If you encounter barriers, please let the instructors know immediately so that we can determine if there is a design adjustment that can be made or if an accommodation might be needed to overcome the limitations of the design. We are always happy to consider creative solutions as long as they do not compromise the intent of the learning activity. We welcome feedback that will assist us in improving the usability and experience for all participants.
