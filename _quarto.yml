@@ -10,13 +10,15 @@ execute:
 
 website:
   favicon: content/images/logo_lwg-circle.png
-  title: "LegacyWorks Group: Storytelling for Impact Series"
+  title: "Storytelling for Impact Series"
   repo-url: https://github.com/LegacyWorksGroup/storytelling
   repo-actions: [issue]
   navbar:
     background: primary
     right: 
-      - text: "LegacyWorks Home"
+      - text: "Series Catalog"
+        href: https://legacyworksgroup.github.io/learning-catalog/
+      - text: "{{< fa house >}}"
         href: https://legacyworksgroup.com/
       - icon: github
         href: https://github.com/LegacyWorksGroup/storytelling
@@ -35,6 +37,8 @@ website:
             href: content/impact.qmd
       - text: "Series Recordings"
         href: recordings.qmd
+      - text: "Resources"
+        href: resources.qmd
   page-footer: 
     center: "&copy; 2026, LegacyWorks Group (Loop: [{{< fa arrows-spin >}}](https://sites.google.com/legacyworksgroup.com/legacy-loop/legacyloop))"
     background: secondary
