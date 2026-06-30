@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://LegacyWorksGroup.github.io/storytelling/recordings.html</loc>
-    <lastmod>2026-05-13T14:41:23.553Z</lastmod>
-  </url>
-  <url>
-    <loc>https://LegacyWorksGroup.github.io/storytelling/content/strategy.html</loc>
-    <lastmod>2026-05-13T14:41:23.553Z</lastmod>
-  </url>
-  <url>
-    <loc>https://LegacyWorksGroup.github.io/storytelling/content/basics.html</loc>
-    <lastmod>2026-05-13T14:41:23.551Z</lastmod>
-  </url>
-  <url>
-    <loc>https://LegacyWorksGroup.github.io/storytelling/content/impact.html</loc>
-    <lastmod>2026-05-13T14:41:23.553Z</lastmod>
+    <loc>https://LegacyWorksGroup.github.io/storytelling/resources.html</loc>
+    <lastmod>2026-06-30T13:49:07.880Z</lastmod>
   </url>
   <url>
     <loc>https://LegacyWorksGroup.github.io/storytelling/index.html</loc>
-    <lastmod>2026-05-13T14:41:23.553Z</lastmod>
+    <lastmod>2026-06-30T13:49:07.880Z</lastmod>
+  </url>
+  <url>
+    <loc>https://LegacyWorksGroup.github.io/storytelling/content/impact.html</loc>
+    <lastmod>2026-06-30T13:49:07.880Z</lastmod>
+  </url>
+  <url>
+    <loc>https://LegacyWorksGroup.github.io/storytelling/content/basics.html</loc>
+    <lastmod>2026-06-30T13:49:07.878Z</lastmod>
+  </url>
+  <url>
+    <loc>https://LegacyWorksGroup.github.io/storytelling/content/strategy.html</loc>
+    <lastmod>2026-06-30T13:49:07.880Z</lastmod>
+  </url>
+  <url>
+    <loc>https://LegacyWorksGroup.github.io/storytelling/recordings.html</loc>
+    <lastmod>2026-06-30T13:49:07.880Z</lastmod>
   </url>
 </urlset>
