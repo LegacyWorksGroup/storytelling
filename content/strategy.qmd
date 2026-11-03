@@ -2,13 +2,40 @@
 title: "Communications Strategy & Best Practices, Tips and Tools"
 ---
 
+<meta name="robots" content="noindex, nofollow">
+
 {{< fa person-digging >}} Under construction; check back later.
 
-
-:::{.callout-tip icon="false" collapse="false"}
-## Core Competencies Strengthened
+:::{.callout-note icon="false" collapse="false"}
+## {{< fa people-group >}} Core Competencies Strengthened
 
 _Icon legend: [Values = {{< fa heart >}}]{.cc-value} | [Skills = {{< fa wand-magic-sparkles >}}]{.cc-skill} | [Stewardship = {{< fa hand-holding-heart >}}]{.cc-steward} | [Results = {{< fa square-poll-vertical >}}]{.cc-result}_
 
+- [{{< fa heart >}} A]{.cc-value}
+- [{{< fa wand-magic-sparkles >}} B]{.cc-skill}
+- [{{< fa hand-holding-heart >}} C]{.cc-steward}
+- [{{< fa square-poll-vertical >}} D]{.cc-result}
+
 :::
 
+:::{.callout-tip icon="false" collapse="false"}
+## {{< fa brain >}} Learning Objectives
+
+After completing this module you will be able to: 
+
+- X
+- Y
+- Z
+
+:::
+
+
+## Additional Resources
+
+### Papers, Blog Posts, and Books
+
+- x
+
+### Workshops
+
+- x

@@ -2,6 +2,8 @@
 title: "Additional Resources"
 ---
 
+<meta name="robots" content="noindex, nofollow">
+
 See below for some likely-useful resources!
 
 ## Language Accessibility
